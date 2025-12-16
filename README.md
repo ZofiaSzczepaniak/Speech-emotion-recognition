@@ -1,6 +1,6 @@
 # Speech Emotion Recognition
 
-Part of my Master thesis, "Utilizing emotion recognition in audio DeepFake detection" was to create the model for emotion recognition. To do so, I have used the Wav2vec2 model on top of which I have added a classification layer. It is able to recognize 5 emotions: anger, happiness, neutral, sadness, and surprise. I have achieved 99.8\% accuracy while testing the model. My training script is adapted to use [RAVDESS Dataset]{https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio} and [TESS Dataset]{https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess} datasets for training.
+Part of my Master thesis, "Utilizing emotion recognition in audio DeepFake detection," was to create the model for emotion recognition. To do so, I have used the Wav2vec2 model on top of which I have added a classification layer. It is able to recognize 5 emotions: anger, happiness, neutral, sadness, and surprise. I have achieved 99.8\% accuracy while testing the model. My training script is adapted to use [RAVDESS Dataset](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio) and [TESS Dataset](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess) datasets for training.
 
 
 ## Project Structure
